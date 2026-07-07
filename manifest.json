@@ -1,7 +1,7 @@
 {
   "id": "json-table-viewer",
   "name": "JSON Table Viewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "0.15.0",
   "description": "Renders JSON as beautiful tables, supporting nested arrays as nested tables.",
   "author": "usero2-endofday",

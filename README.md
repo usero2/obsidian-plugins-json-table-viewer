@@ -2,7 +2,7 @@
 
 A premium Obsidian plugin that transforms standard JSON data into beautiful, interactive, and recursively nested tables. It works both inside note code blocks and as a direct file viewer for `.json` files in your vault.
 
-![Zebra striping and interactive table columns](https://raw.githubusercontent.com/username/obsidian-plugins-json-table-viewer/main/assets/preview.png) *(Placeholder for preview)*
+![Zebra striping and interactive table columns](./images/image.png) 
 
 ## Features
 

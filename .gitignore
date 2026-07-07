@@ -8,3 +8,5 @@
 !manifest.json
 !styles.css
 !.gitignore
+!images/
+!images/**

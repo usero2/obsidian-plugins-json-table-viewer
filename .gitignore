@@ -13,3 +13,4 @@
 !.github/
 !.github/workflows/
 !.github/workflows/release.yml
+!git_setup_prompt.md

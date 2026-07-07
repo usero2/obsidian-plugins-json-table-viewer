@@ -10,7 +10,8 @@
 /* Base table stylings */
 .json-table-viewer-table,
 .json-table-viewer-object-table {
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     width: 100%;
     margin: 6px 0;
     background-color: var(--background-primary);
@@ -32,6 +33,13 @@
     position: sticky;
     top: 0;
     z-index: 5;
+    vertical-align: top;
+}
+
+/* Adjust nested vertical table key position sticky offset */
+.json-table-viewer-table td .json-table-viewer-object-table th {
+    top: 54px;
+    z-index: 4;
 }
 
 .json-table-viewer-table th:last-child,
@@ -294,5 +302,28 @@
 
 .json-table-row-selected:hover {
     background-color: hsla(48, 100%, 45%, 0.22) !important;
+}
+
+/* Vertical Table Key cells - Remove th padding and set top vertical alignment */
+.json-table-vertical-key-cell {
+    vertical-align: top !important;
+    padding: 0 !important;
+}
+
+/* Make vertical key text float and stick when scrolling Y inside tall cells */
+.json-table-vertical-key-sticky {
+    position: sticky;
+    top: 10px; /* Slight gap from the very top */
+    padding: 8px 12px;
+    z-index: 3;
+    background-color: var(--background-secondary-alt);
+    height: fit-content;
+    white-space: normal;
+    word-break: break-word;
+}
+
+/* Offset sticky vertical keys when they are nested inside a horizontal table */
+.json-table-viewer-table td .json-table-vertical-key-sticky {
+    top: 64px; /* Sticks perfectly below the parent horizontal header */
 }
 

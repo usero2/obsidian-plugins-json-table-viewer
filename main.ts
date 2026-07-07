@@ -405,7 +405,12 @@ function renderObject(obj: any, container: HTMLElement) {
         });
 
         const th = tr.createEl("th");
-        th.setText(key);
+        th.addClass("json-table-vertical-key-cell");
+        
+        const keyWrapper = th.createEl("div");
+        keyWrapper.addClass("json-table-vertical-key-sticky");
+        keyWrapper.setText(key);
+
         const td = tr.createEl("td");
         renderValue(obj[key], td);
     });

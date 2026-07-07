@@ -1,0 +1,282 @@
+/* JSON Table Viewer Styles */
+
+.json-table-viewer-root {
+    margin: 12px 0;
+    font-family: var(--font-interface);
+    font-size: 0.9em;
+    overflow-x: auto;
+    max-width: 100%;
+}
+
+/* Base table stylings */
+.json-table-viewer-table,
+.json-table-viewer-object-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 6px 0;
+    background-color: var(--background-primary);
+    border: 1px solid var(--table-border);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+/* Headers */
+.json-table-viewer-table th,
+.json-table-viewer-object-table th {
+    background-color: var(--background-secondary-alt);
+    color: var(--text-normal);
+    font-weight: 600;
+    padding: 8px 12px;
+    border-bottom: 2px solid var(--table-border);
+    border-right: 1px solid var(--table-border);
+    text-align: left;
+    white-space: nowrap;
+}
+
+.json-table-viewer-table th:last-child,
+.json-table-viewer-object-table th:last-child {
+    border-right: none;
+}
+
+/* Data cells */
+.json-table-viewer-table td,
+.json-table-viewer-object-table td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--table-border);
+    border-right: 1px solid var(--table-border);
+    color: var(--text-normal);
+    vertical-align: top;
+}
+
+.json-table-viewer-table td:last-child,
+.json-table-viewer-object-table td:last-child {
+    border-right: none;
+}
+
+/* Row Hover effect */
+.json-table-viewer-table tbody tr:hover,
+.json-table-viewer-object-table tbody tr:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.json-table-viewer-table tbody tr:last-child td,
+.json-table-viewer-object-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+/* Nested Table Styling */
+.json-table-viewer-table-wrapper,
+.json-table-viewer-object-wrapper {
+    margin: 4px 0;
+    border-left: 3px solid var(--interactive-accent);
+    padding-left: 8px;
+    background-color: var(--background-secondary);
+    border-radius: 0 4px 4px 0;
+}
+
+.json-table-viewer-table-wrapper .json-table-viewer-table,
+.json-table-viewer-object-wrapper .json-table-viewer-object-table {
+    margin: 0;
+    background-color: var(--background-secondary);
+}
+
+/* Type-specific stylings */
+.json-table-null {
+    color: var(--text-muted);
+    font-style: italic;
+    font-weight: 500;
+}
+
+.json-table-number {
+    font-family: var(--font-monospace);
+    color: var(--text-accent);
+}
+
+.json-table-cell-number {
+    text-align: right;
+}
+
+.json-table-string {
+    word-break: break-word;
+}
+
+.json-table-link {
+    color: var(--link-color);
+    text-decoration: underline;
+}
+
+.json-table-link:hover {
+    color: var(--link-color-hover);
+}
+
+.json-table-empty-array {
+    color: var(--text-muted);
+    font-family: var(--font-monospace);
+}
+
+/* Primitive lists (e.g. array of strings/numbers) */
+.json-table-primitive-list {
+    margin: 0;
+    padding-left: 1.2em;
+}
+
+.json-table-primitive-list li {
+    margin-bottom: 2px;
+}
+
+/* Badges for boolean values */
+.json-table-badge {
+    display: inline-block;
+    padding: 2px 6px;
+    font-size: 0.85em;
+    font-weight: 600;
+    border-radius: 4px;
+    font-family: var(--font-interface);
+}
+
+.json-table-badge-true {
+    background-color: hsla(140, 50%, 50%, 0.15);
+    color: var(--text-success);
+    border: 1px solid hsla(140, 50%, 50%, 0.3);
+}
+
+.json-table-badge-false {
+    background-color: hsla(0, 50%, 50%, 0.15);
+    color: var(--text-error);
+    border: 1px solid hsla(0, 50%, 50%, 0.3);
+}
+
+/* Error messages styling */
+.json-table-error {
+    background-color: hsla(0, 50%, 50%, 0.1);
+    border: 1px solid var(--text-error);
+    color: var(--text-error);
+    padding: 10px 14px;
+    border-radius: 6px;
+    margin: 8px 0;
+    font-family: var(--font-interface);
+    font-weight: 500;
+}
+
+/* Interactive Table Header & Controls */
+.json-table-header-cell {
+    vertical-align: top;
+    padding: 6px 10px !important;
+}
+
+.json-table-header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+}
+
+.json-table-header-title {
+    cursor: pointer;
+    font-weight: 600;
+    user-select: none;
+}
+
+.json-table-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.json-table-sort-indicator {
+    cursor: pointer;
+    font-size: 0.9em;
+    user-select: none;
+    color: var(--text-muted);
+    padding: 0 2px;
+    display: inline-block;
+    transition: color 0.15s ease;
+}
+
+.json-table-sort-indicator:hover,
+.json-table-sort-indicator.active {
+    color: var(--interactive-accent);
+}
+
+.json-table-group-btn {
+    cursor: pointer;
+    font-size: 0.75em;
+    padding: 1px 5px;
+    height: 18px;
+    line-height: 14px;
+    background-color: var(--background-modifier-border);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    border-radius: 3px;
+    transition: all 0.15s ease;
+}
+
+.json-table-group-btn:hover {
+    background-color: var(--background-modifier-border-hover);
+    color: var(--text-normal);
+}
+
+.json-table-group-btn.active {
+    background-color: var(--interactive-accent);
+    border-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+}
+
+.json-table-filter-input {
+    width: 100%;
+    height: 22px !important;
+    font-size: 0.8em !important;
+    padding: 2px 6px !important;
+    border-radius: 4px;
+    background-color: var(--background-modifier-form-field) !important;
+    border: 1px solid var(--background-modifier-border) !important;
+    color: var(--text-normal) !important;
+}
+
+.json-table-filter-input:focus {
+    border-color: var(--interactive-accent) !important;
+    box-shadow: 0 0 0 1px var(--interactive-accent);
+    background-color: var(--background-primary) !important;
+}
+
+/* Grouping Row Styles */
+.json-table-group-header-row {
+    cursor: pointer;
+    background-color: var(--background-secondary-alt);
+    border-top: 2px solid var(--table-border);
+}
+
+.json-table-group-header-row:hover {
+    background-color: var(--background-modifier-hover) !important;
+}
+
+.json-table-group-header-cell {
+    padding: 8px 12px !important;
+    font-weight: bold;
+    user-select: none;
+}
+
+.json-table-fold-indicator {
+    display: inline-block;
+    width: 14px;
+    font-size: 0.8em;
+    color: var(--text-muted);
+}
+
+.json-table-group-title {
+    color: var(--text-accent);
+}
+
+.json-table-group-count {
+    font-size: 0.85em;
+    font-weight: normal;
+    color: var(--text-muted);
+    margin-left: 4px;
+}
+
+/* Indent items in grouped rows to visually represent grouping */
+.json-table-group-item-row td:first-child {
+    padding-left: 20px !important;
+}
+

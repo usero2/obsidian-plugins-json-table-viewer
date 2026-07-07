@@ -1,0 +1,16 @@
+{
+    "NAV": 1000000.0,
+    "positions": [
+        {
+            "symbol": "AAPL",
+            "quantity": 10.0,
+            "averagePrice": 150.0
+        },
+        {
+            "symbol": "GOOGL",
+            "quantity": 5.0,
+            "averagePrice": 2000.0
+       
+        }
+    ]
+}

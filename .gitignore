@@ -10,3 +10,6 @@
 !.gitignore
 !images/
 !images/**
+!.github/
+!.github/workflows/
+!.github/workflows/release.yml

@@ -1,16 +1,1 @@
-# Ignore everything by default
-*
-
-# Do not ignore these files
-!LICENSE
-!README.md
-!main.js
-!manifest.json
-!styles.css
-!.gitignore
-!images/
-!images/**
-!.github/
-!.github/workflows/
-!.github/workflows/release.yml
-!git_setup_prompt.md
+node_modules/

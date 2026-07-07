@@ -4,8 +4,7 @@
     margin: 12px 0;
     font-family: var(--font-interface);
     font-size: 0.9em;
-    overflow-x: auto;
-    max-width: 100%;
+    width: 100%;
 }
 
 /* Base table stylings */
@@ -30,7 +29,7 @@
     border-bottom: 2px solid var(--table-border);
     border-right: 1px solid var(--table-border);
     text-align: left;
-    white-space: nowrap;
+    white-space: normal;
 }
 
 .json-table-viewer-table th:last-child,
@@ -278,5 +277,10 @@
 /* Indent items in grouped rows to visually represent grouping */
 .json-table-group-item-row td:first-child {
     padding-left: 20px !important;
+}
+
+/* Zebra striping for alternating rows */
+.json-table-row-alternate {
+    background-color: var(--background-secondary-alt) !important;
 }
 

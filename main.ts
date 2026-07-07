@@ -323,9 +323,12 @@ function renderArrayOfObjects(arr: any[], container: HTMLElement) {
                 
                 // Group Item Rows
                 if (!isCollapsed) {
-                    groupItems.forEach(item => {
+                    groupItems.forEach((item, idx) => {
                         const tr = tbody.createEl("tr");
                         tr.addClass("json-table-group-item-row");
+                        if (idx % 2 === 1) {
+                            tr.addClass("json-table-row-alternate");
+                        }
                         keys.forEach(key => {
                             const td = tr.createEl("td");
                             if (item && typeof item === 'object' && key in item) {
@@ -339,8 +342,11 @@ function renderArrayOfObjects(arr: any[], container: HTMLElement) {
             });
         } else {
             // Flat rows
-            processedRows.forEach(item => {
+            processedRows.forEach((item, idx) => {
                 const tr = tbody.createEl("tr");
+                if (idx % 2 === 1) {
+                    tr.addClass("json-table-row-alternate");
+                }
                 keys.forEach(key => {
                     const td = tr.createEl("td");
                     if (item && typeof item === 'object' && key in item) {
@@ -366,8 +372,11 @@ function renderObject(obj: any, container: HTMLElement) {
     table.addClass("json-table-viewer-object-table");
     
     const tbody = table.createEl("tbody");
-    Object.keys(obj).forEach(key => {
+    Object.keys(obj).forEach((key, idx) => {
         const tr = tbody.createEl("tr");
+        if (idx % 2 === 1) {
+            tr.addClass("json-table-row-alternate");
+        }
         const th = tr.createEl("th");
         th.setText(key);
         const td = tr.createEl("td");

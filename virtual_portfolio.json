@@ -1,0 +1,1470 @@
+{
+    "positions": [
+        {
+            "ISymbol": 23,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 61.25,
+            "Qty": 4300,
+            "InitialSL": 58.96875,
+            "HighestClose": 70.75,
+            "LatestClose": 70.75,
+            "CurrentStop": 65.25
+        },
+        {
+            "ISymbol": 67,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 36.25,
+            "Qty": 3200,
+            "InitialSL": 33.21875,
+            "HighestClose": 44.75,
+            "LatestClose": 44.0,
+            "CurrentStop": 40.75
+        },
+        {
+            "ISymbol": 196,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 7.8,
+            "Qty": 9500,
+            "InitialSL": 6.75625,
+            "HighestClose": 10.5,
+            "LatestClose": 10.3,
+            "CurrentStop": 9.524999999999999
+        },
+        {
+            "ISymbol": 217,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 35.0,
+            "Qty": 4800,
+            "InitialSL": 32.9375,
+            "HighestClose": 35.0,
+            "LatestClose": 35.0,
+            "CurrentStop": 33.125
+        },
+        {
+            "ISymbol": 1368,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 45.25,
+            "Qty": 2700,
+            "InitialSL": 41.65625,
+            "HighestClose": 45.25,
+            "LatestClose": 45.25,
+            "CurrentStop": 41.65625
+        },
+        {
+            "ISymbol": 2450,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 52.25,
+            "Qty": 4800,
+            "InitialSL": 50.1843165,
+            "HighestClose": 52.25,
+            "LatestClose": 52.25,
+            "CurrentStop": 50.1843165
+        },
+        {
+            "ISymbol": 3182,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 30.75,
+            "Qty": 6400,
+            "InitialSL": 29.1875,
+            "HighestClose": 37.25,
+            "LatestClose": 37.25,
+            "CurrentStop": 33.375
+        },
+        {
+            "ISymbol": 4473,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 56.25,
+            "Qty": 3300,
+            "InitialSL": 53.25,
+            "HighestClose": 64.75,
+            "LatestClose": 64.25,
+            "CurrentStop": 60.375
+        },
+        {
+            "ISymbol": 7080,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 2.22,
+            "Qty": 51900,
+            "InitialSL": 2.0275,
+            "HighestClose": 2.22,
+            "LatestClose": 2.22,
+            "CurrentStop": 2.0275
+        },
+        {
+            "ISymbol": 81644,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 5.9,
+            "Qty": 19700,
+            "InitialSL": 5.3925,
+            "HighestClose": 7.2,
+            "LatestClose": 6.95,
+            "CurrentStop": 6.550000000000001
+        },
+        {
+            "ISymbol": 89322,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 6.2,
+            "Qty": 22500,
+            "InitialSL": 5.7562500000000005,
+            "HighestClose": 7.15,
+            "LatestClose": 7.05,
+            "CurrentStop": 6.800000000000001
+        },
+        {
+            "ISymbol": 110272,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 137.5,
+            "Qty": 2100,
+            "InitialSL": 132.75,
+            "HighestClose": 153.0,
+            "LatestClose": 153.0,
+            "CurrentStop": 145.25
+        },
+        {
+            "ISymbol": 124457,
+            "EntryDate": "2026-06-02",
+            "EntryPrice": 16.5,
+            "Qty": 5000,
+            "InitialSL": 14.5375,
+            "HighestClose": 18.7,
+            "LatestClose": 18.0,
+            "CurrentStop": 17.35
+        },
+        {
+            "ISymbol": 22222,
+            "EntryDate": "2026-06-04",
+            "EntryPrice": 16.1,
+            "Qty": 8800,
+            "InitialSL": 14.975000000000001,
+            "HighestClose": 18.9,
+            "LatestClose": 18.7,
+            "CurrentStop": 17.5
+        },
+        {
+            "ISymbol": 95745,
+            "EntryDate": "2026-06-04",
+            "EntryPrice": 21.3,
+            "Qty": 6700,
+            "InitialSL": 19.825,
+            "HighestClose": 23.8,
+            "LatestClose": 23.4,
+            "CurrentStop": 22.35
+        },
+        {
+            "ISymbol": 506,
+            "EntryDate": "2026-06-05",
+            "EntryPrice": 34.5,
+            "Qty": 4000,
+            "InitialSL": 32.03125,
+            "HighestClose": 37.5,
+            "LatestClose": 36.75,
+            "CurrentStop": 35.375
+        },
+        {
+            "ISymbol": 93918,
+            "EntryDate": "2026-06-05",
+            "EntryPrice": 2.42,
+            "Qty": 54700,
+            "InitialSL": 2.2375,
+            "HighestClose": 2.76,
+            "LatestClose": 2.6,
+            "CurrentStop": 2.5599999999999996
+        },
+        {
+            "ISymbol": 116789,
+            "EntryDate": "2026-06-05",
+            "EntryPrice": 5.85,
+            "Qty": 33800,
+            "InitialSL": 5.555,
+            "HighestClose": 6.85,
+            "LatestClose": 6.85,
+            "CurrentStop": 6.2
+        },
+        {
+            "ISymbol": 21730,
+            "EntryDate": "2026-06-08",
+            "EntryPrice": 14.4,
+            "Qty": 14000,
+            "InitialSL": 13.687500000000002,
+            "HighestClose": 19.6,
+            "LatestClose": 19.0,
+            "CurrentStop": 17.1
+        },
+        {
+            "ISymbol": 74193,
+            "EntryDate": "2026-06-08",
+            "EntryPrice": 1.74,
+            "Qty": 186000,
+            "InitialSL": 1.68625,
+            "HighestClose": 2.04,
+            "LatestClose": 1.97,
+            "CurrentStop": 1.905
+        },
+        {
+            "ISymbol": 77147,
+            "EntryDate": "2026-06-11",
+            "EntryPrice": 3.04,
+            "Qty": 133300,
+            "InitialSL": 2.965,
+            "HighestClose": 3.18,
+            "LatestClose": 3.18,
+            "CurrentStop": 3.0700000000000003
+        },
+        {
+            "ISymbol": 5354,
+            "EntryDate": "2026-06-12",
+            "EntryPrice": 9.6,
+            "Qty": 23800,
+            "InitialSL": 9.181249999999999,
+            "HighestClose": 11.6,
+            "LatestClose": 11.6,
+            "CurrentStop": 10.15
+        },
+        {
+            "ISymbol": 77582,
+            "EntryDate": "2026-06-12",
+            "EntryPrice": 5.45,
+            "Qty": 34000,
+            "InitialSL": 5.156250000000001,
+            "HighestClose": 6.3,
+            "LatestClose": 6.0,
+            "CurrentStop": 5.775
+        },
+        {
+            "ISymbol": 121783,
+            "EntryDate": "2026-06-12",
+            "EntryPrice": 17.7,
+            "Qty": 9400,
+            "InitialSL": 16.6375,
+            "HighestClose": 21.3,
+            "LatestClose": 21.2,
+            "CurrentStop": 19.1
+        },
+        {
+            "ISymbol": 10978,
+            "EntryDate": "2026-06-15",
+            "EntryPrice": 115.0,
+            "Qty": 3900,
+            "InitialSL": 112.4375,
+            "HighestClose": 122.0,
+            "LatestClose": 121.5,
+            "CurrentStop": 117.5
+        },
+        {
+            "ISymbol": 84051,
+            "EntryDate": "2026-06-15",
+            "EntryPrice": 16.4,
+            "Qty": 6900,
+            "InitialSL": 14.962499999999999,
+            "HighestClose": 18.4,
+            "LatestClose": 18.1,
+            "CurrentStop": 16.4
+        },
+        {
+            "ISymbol": 89402,
+            "EntryDate": "2026-06-15",
+            "EntryPrice": 16.9,
+            "Qty": 12600,
+            "InitialSL": 16.1125,
+            "HighestClose": 18.3,
+            "LatestClose": 17.8,
+            "CurrentStop": 17.25
+        },
+        {
+            "ISymbol": 94385,
+            "EntryDate": "2026-06-15",
+            "EntryPrice": 1.67,
+            "Qty": 103800,
+            "InitialSL": 1.57375,
+            "HighestClose": 1.74,
+            "LatestClose": 1.69,
+            "CurrentStop": 1.65
+        },
+        {
+            "ISymbol": 41,
+            "EntryDate": "2026-06-16",
+            "EntryPrice": 206.0,
+            "Qty": 1300,
+            "InitialSL": 198.3125,
+            "HighestClose": 233.0,
+            "LatestClose": 230.0,
+            "CurrentStop": 215.0
+        },
+        {
+            "ISymbol": 181,
+            "EntryDate": "2026-06-16",
+            "EntryPrice": 2.4,
+            "Qty": 81600,
+            "InitialSL": 2.2775,
+            "HighestClose": 2.56,
+            "LatestClose": 2.56,
+            "CurrentStop": 2.4299999999999997
+        },
+        {
+            "ISymbol": 327,
+            "EntryDate": "2026-06-16",
+            "EntryPrice": 92.5,
+            "Qty": 1900,
+            "InitialSL": 87.34375,
+            "HighestClose": 104.5,
+            "LatestClose": 104.0,
+            "CurrentStop": 95.5
+        },
+        {
+            "ISymbol": 89874,
+            "EntryDate": "2026-06-16",
+            "EntryPrice": 1.66,
+            "Qty": 102500,
+            "InitialSL": 1.5625,
+            "HighestClose": 2.26,
+            "LatestClose": 2.2,
+            "CurrentStop": 1.95
+        },
+        {
+            "ISymbol": 2574,
+            "EntryDate": "2026-06-17",
+            "EntryPrice": 6.3,
+            "Qty": 29600,
+            "InitialSL": 5.9625,
+            "HighestClose": 6.55,
+            "LatestClose": 6.55,
+            "CurrentStop": 6.300000000000001
+        },
+        {
+            "ISymbol": 18407,
+            "EntryDate": "2026-06-17",
+            "EntryPrice": 1.5,
+            "Qty": 97500,
+            "InitialSL": 1.3975,
+            "HighestClose": 1.63,
+            "LatestClose": 1.63,
+            "CurrentStop": 1.515
+        },
+        {
+            "ISymbol": 20792,
+            "EntryDate": "2026-06-17",
+            "EntryPrice": 13.5,
+            "Qty": 16600,
+            "InitialSL": 12.9,
+            "HighestClose": 14.4,
+            "LatestClose": 14.3,
+            "CurrentStop": 13.6
+        },
+        {
+            "ISymbol": 51704,
+            "EntryDate": "2026-06-17",
+            "EntryPrice": 43.5,
+            "Qty": 2900,
+            "InitialSL": 40.15625,
+            "HighestClose": 48.0,
+            "LatestClose": 48.0,
+            "CurrentStop": 43.625
+        },
+        {
+            "ISymbol": 84458,
+            "EntryDate": "2026-06-17",
+            "EntryPrice": 12.9,
+            "Qty": 9000,
+            "InitialSL": 11.8,
+            "HighestClose": 15.3,
+            "LatestClose": 15.3,
+            "CurrentStop": 13.5
+        },
+        {
+            "ISymbol": 88769,
+            "EntryDate": "2026-06-17",
+            "EntryPrice": 15.9,
+            "Qty": 11900,
+            "InitialSL": 15.0625,
+            "HighestClose": 17.8,
+            "LatestClose": 17.5,
+            "CurrentStop": 16.55
+        },
+        {
+            "ISymbol": 115311,
+            "EntryDate": "2026-06-17",
+            "EntryPrice": 1.8,
+            "Qty": 101200,
+            "InitialSL": 1.70125,
+            "HighestClose": 1.85,
+            "LatestClose": 1.84,
+            "CurrentStop": 1.765
+        },
+        {
+            "ISymbol": 422,
+            "EntryDate": "2026-06-18",
+            "EntryPrice": 36.5,
+            "Qty": 6200,
+            "InitialSL": 34.90625,
+            "HighestClose": 40.0,
+            "LatestClose": 39.25,
+            "CurrentStop": 37.25
+        },
+        {
+            "ISymbol": 119154,
+            "EntryDate": "2026-06-18",
+            "EntryPrice": 1.22,
+            "Qty": 140300,
+            "InitialSL": 1.14875,
+            "HighestClose": 1.31,
+            "LatestClose": 1.31,
+            "CurrentStop": 1.25
+        },
+        {
+            "ISymbol": 5351,
+            "EntryDate": "2026-06-19",
+            "EntryPrice": 10.6,
+            "Qty": 12000,
+            "InitialSL": 9.768749999999999,
+            "HighestClose": 14.8,
+            "LatestClose": 14.3,
+            "CurrentStop": 12.275
+        },
+        {
+            "ISymbol": 19323,
+            "EntryDate": "2026-06-19",
+            "EntryPrice": 3.84,
+            "Qty": 50000,
+            "InitialSL": 3.6400000000000006,
+            "HighestClose": 4.02,
+            "LatestClose": 4.02,
+            "CurrentStop": 3.86
+        },
+        {
+            "ISymbol": 77370,
+            "EntryDate": "2026-06-19",
+            "EntryPrice": 6.1,
+            "Qty": 27100,
+            "InitialSL": 5.731249999999999,
+            "HighestClose": 6.35,
+            "LatestClose": 6.25,
+            "CurrentStop": 6.050000000000001
+        },
+        {
+            "ISymbol": 98012,
+            "EntryDate": "2026-06-19",
+            "EntryPrice": 26.5,
+            "Qty": 5300,
+            "InitialSL": 24.625,
+            "HighestClose": 29.25,
+            "LatestClose": 29.25,
+            "CurrentStop": 26.875
+        },
+        {
+            "ISymbol": 1,
+            "EntryDate": "2026-06-22",
+            "EntryPrice": 180.0,
+            "Qty": 1200,
+            "InitialSL": 172.125,
+            "HighestClose": 193.5,
+            "LatestClose": 193.5,
+            "CurrentStop": 180.5
+        },
+        {
+            "ISymbol": 94383,
+            "EntryDate": "2026-06-22",
+            "EntryPrice": 3.06,
+            "Qty": 67700,
+            "InitialSL": 2.9125,
+            "HighestClose": 3.12,
+            "LatestClose": 3.1,
+            "CurrentStop": 3.0
+        },
+        {
+            "ISymbol": 100622,
+            "EntryDate": "2026-06-22",
+            "EntryPrice": 11.8,
+            "Qty": 24200,
+            "InitialSL": 11.3875,
+            "HighestClose": 12.0,
+            "LatestClose": 12.0,
+            "CurrentStop": 11.6
+        },
+        {
+            "ISymbol": 18756,
+            "EntryDate": "2026-06-23",
+            "EntryPrice": 11.4,
+            "Qty": 25800,
+            "InitialSL": 11.0125,
+            "HighestClose": 11.7,
+            "LatestClose": 11.6,
+            "CurrentStop": 11.4
+        },
+        {
+            "ISymbol": 815,
+            "EntryDate": "2026-06-24",
+            "EntryPrice": 8.95,
+            "Qty": 39000,
+            "InitialSL": 8.69375,
+            "HighestClose": 9.45,
+            "LatestClose": 9.25,
+            "CurrentStop": 9.0
+        },
+        {
+            "ISymbol": 1152,
+            "EntryDate": "2026-06-24",
+            "EntryPrice": 7.2,
+            "Qty": 38000,
+            "InitialSL": 6.937500000000001,
+            "HighestClose": 7.3,
+            "LatestClose": 7.3,
+            "CurrentStop": 7.125
+        },
+        {
+            "ISymbol": 21233,
+            "EntryDate": "2026-06-24",
+            "EntryPrice": 32.25,
+            "Qty": 5000,
+            "InitialSL": 30.28125,
+            "HighestClose": 33.75,
+            "LatestClose": 32.0,
+            "CurrentStop": 31.75
+        },
+        {
+            "ISymbol": 21988,
+            "EntryDate": "2026-06-24",
+            "EntryPrice": 43.75,
+            "Qty": 3200,
+            "InitialSL": 40.65625,
+            "HighestClose": 49.25,
+            "LatestClose": 48.5,
+            "CurrentStop": 44.75
+        },
+        {
+            "ISymbol": 78934,
+            "EntryDate": "2026-06-24",
+            "EntryPrice": 1.88,
+            "Qty": 34300,
+            "InitialSL": 1.58875,
+            "HighestClose": 1.88,
+            "LatestClose": 1.71,
+            "CurrentStop": 1.705
+        },
+        {
+            "ISymbol": 112953,
+            "EntryDate": "2026-06-24",
+            "EntryPrice": 3.74,
+            "Qty": 51900,
+            "InitialSL": 3.5475,
+            "HighestClose": 3.98,
+            "LatestClose": 3.96,
+            "CurrentStop": 3.71
+        },
+        {
+            "ISymbol": 120214,
+            "EntryDate": "2026-06-24",
+            "EntryPrice": 5.8,
+            "Qty": 18800,
+            "InitialSL": 5.2700000000000005,
+            "HighestClose": 6.85,
+            "LatestClose": 6.45,
+            "CurrentStop": 6.0
+        },
+        {
+            "ISymbol": 1316,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 67.0,
+            "Qty": 3100,
+            "InitialSL": 63.78125,
+            "HighestClose": 68.25,
+            "LatestClose": 67.5,
+            "CurrentStop": 66.125
+        },
+        {
+            "ISymbol": 1374,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 2.02,
+            "Qty": 58800,
+            "InitialSL": 1.8500000000000003,
+            "HighestClose": 2.02,
+            "LatestClose": 2.0,
+            "CurrentStop": 1.9500000000000002
+        },
+        {
+            "ISymbol": 2601,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 98.0,
+            "Qty": 2500,
+            "InitialSL": 94.09375,
+            "HighestClose": 106.5,
+            "LatestClose": 104.5,
+            "CurrentStop": 99.875
+        },
+        {
+            "ISymbol": 2608,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 0.76,
+            "Qty": 106600,
+            "InitialSL": 0.66625,
+            "HighestClose": 0.76,
+            "LatestClose": 0.76,
+            "CurrentStop": 0.6950000000000001
+        },
+        {
+            "ISymbol": 5271,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 9.85,
+            "Qty": 21900,
+            "InitialSL": 9.39375,
+            "HighestClose": 10.2,
+            "LatestClose": 9.95,
+            "CurrentStop": 9.649999999999999
+        },
+        {
+            "ISymbol": 20867,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 23.1,
+            "Qty": 5900,
+            "InitialSL": 21.425,
+            "HighestClose": 24.6,
+            "LatestClose": 24.4,
+            "CurrentStop": 22.25
+        },
+        {
+            "ISymbol": 26086,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 4.68,
+            "Qty": 24600,
+            "InitialSL": 4.275,
+            "HighestClose": 4.88,
+            "LatestClose": 4.88,
+            "CurrentStop": 4.42
+        },
+        {
+            "ISymbol": 89377,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 6.75,
+            "Qty": 57100,
+            "InitialSL": 6.575,
+            "HighestClose": 6.8,
+            "LatestClose": 6.75,
+            "CurrentStop": 6.699999999999999
+        },
+        {
+            "ISymbol": 94264,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 5.15,
+            "Qty": 18300,
+            "InitialSL": 4.60625,
+            "HighestClose": 5.25,
+            "LatestClose": 5.0,
+            "CurrentStop": 4.795
+        },
+        {
+            "ISymbol": 106619,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 2.94,
+            "Qty": 54700,
+            "InitialSL": 2.7575000000000003,
+            "HighestClose": 3.1,
+            "LatestClose": 3.1,
+            "CurrentStop": 2.8600000000000003
+        },
+        {
+            "ISymbol": 109268,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 1.41,
+            "Qty": 61000,
+            "InitialSL": 1.2462499999999999,
+            "HighestClose": 1.41,
+            "LatestClose": 1.36,
+            "CurrentStop": 1.315
+        },
+        {
+            "ISymbol": 124487,
+            "EntryDate": "2026-06-25",
+            "EntryPrice": 0.86,
+            "Qty": 94100,
+            "InitialSL": 0.75375,
+            "HighestClose": 0.86,
+            "LatestClose": 0.8,
+            "CurrentStop": 0.78
+        },
+        {
+            "ISymbol": 731,
+            "EntryDate": "2026-06-26",
+            "EntryPrice": 18.9,
+            "Qty": 14200,
+            "InitialSL": 18.2,
+            "HighestClose": 20.0,
+            "LatestClose": 19.7,
+            "CurrentStop": 18.950000000000003
+        },
+        {
+            "ISymbol": 3281,
+            "EntryDate": "2026-06-26",
+            "EntryPrice": 1.73,
+            "Qty": 135500,
+            "InitialSL": 1.65625,
+            "HighestClose": 2.04,
+            "LatestClose": 2.04,
+            "CurrentStop": 1.77
+        },
+        {
+            "ISymbol": 4197,
+            "EntryDate": "2026-06-26",
+            "EntryPrice": 7.25,
+            "Qty": 64000,
+            "InitialSL": 7.09375,
+            "HighestClose": 7.7,
+            "LatestClose": 7.7,
+            "CurrentStop": 7.4
+        },
+        {
+            "ISymbol": 13590,
+            "EntryDate": "2026-06-26",
+            "EntryPrice": 4.28,
+            "Qty": 22300,
+            "InitialSL": 3.8325,
+            "HighestClose": 4.48,
+            "LatestClose": 4.48,
+            "CurrentStop": 4.12
+        },
+        {
+            "ISymbol": 16065,
+            "EntryDate": "2026-06-26",
+            "EntryPrice": 8.4,
+            "Qty": 30700,
+            "InitialSL": 8.075000000000001,
+            "HighestClose": 8.5,
+            "LatestClose": 8.5,
+            "CurrentStop": 8.25
+        },
+        {
+            "ISymbol": 92839,
+            "EntryDate": "2026-06-26",
+            "EntryPrice": 3.88,
+            "Qty": 41200,
+            "InitialSL": 3.6374999999999997,
+            "HighestClose": 3.88,
+            "LatestClose": 3.8,
+            "CurrentStop": 3.6374999999999997
+        },
+        {
+            "ISymbol": 392,
+            "EntryDate": "2026-06-29",
+            "EntryPrice": 3.82,
+            "Qty": 64500,
+            "InitialSL": 3.665,
+            "HighestClose": 3.82,
+            "LatestClose": 3.76,
+            "CurrentStop": 3.71
+        },
+        {
+            "ISymbol": 478,
+            "EntryDate": "2026-06-29",
+            "EntryPrice": 191.0,
+            "Qty": 900,
+            "InitialSL": 180.25,
+            "HighestClose": 193.5,
+            "LatestClose": 190.0,
+            "CurrentStop": 185.0
+        },
+        {
+            "ISymbol": 579,
+            "EntryDate": "2026-06-29",
+            "EntryPrice": 2.14,
+            "Qty": 102500,
+            "InitialSL": 2.0425,
+            "HighestClose": 2.24,
+            "LatestClose": 2.22,
+            "CurrentStop": 2.15
+        },
+        {
+            "ISymbol": 5170,
+            "EntryDate": "2026-06-29",
+            "EntryPrice": 48.0,
+            "Qty": 3400,
+            "InitialSL": 45.0625,
+            "HighestClose": 52.25,
+            "LatestClose": 52.25,
+            "CurrentStop": 47.5
+        },
+        {
+            "ISymbol": 101651,
+            "EntryDate": "2026-06-29",
+            "EntryPrice": 22.6,
+            "Qty": 11500,
+            "InitialSL": 21.737500000000004,
+            "HighestClose": 23.0,
+            "LatestClose": 22.8,
+            "CurrentStop": 22.15
+        },
+        {
+            "ISymbol": 330,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 41.75,
+            "Qty": 2000,
+            "InitialSL": 36.875,
+            "HighestClose": 41.75,
+            "LatestClose": 39.25,
+            "CurrentStop": 38.625
+        },
+        {
+            "ISymbol": 852,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 7.55,
+            "Qty": 23500,
+            "InitialSL": 7.125,
+            "HighestClose": 7.7,
+            "LatestClose": 7.55,
+            "CurrentStop": 7.35
+        },
+        {
+            "ISymbol": 5175,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 0.61,
+            "Qty": 205100,
+            "InitialSL": 0.5612500000000001,
+            "HighestClose": 0.63,
+            "LatestClose": 0.61,
+            "CurrentStop": 0.6000000000000001
+        },
+        {
+            "ISymbol": 9645,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 9.85,
+            "Qty": 40000,
+            "InitialSL": 9.6,
+            "HighestClose": 9.9,
+            "LatestClose": 9.85,
+            "CurrentStop": 9.65
+        },
+        {
+            "ISymbol": 19619,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 36.75,
+            "Qty": 5000,
+            "InitialSL": 34.78125,
+            "HighestClose": 38.0,
+            "LatestClose": 37.75,
+            "CurrentStop": 35.875
+        },
+        {
+            "ISymbol": 22269,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 3.3,
+            "Qty": 43900,
+            "InitialSL": 3.0725,
+            "HighestClose": 3.34,
+            "LatestClose": 3.32,
+            "CurrentStop": 3.15
+        },
+        {
+            "ISymbol": 89817,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 14.5,
+            "Qty": 13700,
+            "InitialSL": 13.775,
+            "HighestClose": 15.3,
+            "LatestClose": 15.0,
+            "CurrentStop": 14.350000000000001
+        },
+        {
+            "ISymbol": 101513,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 3.72,
+            "Qty": 43400,
+            "InitialSL": 3.49,
+            "HighestClose": 3.72,
+            "LatestClose": 3.7,
+            "CurrentStop": 3.57
+        },
+        {
+            "ISymbol": 102620,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 1.43,
+            "Qty": 131100,
+            "InitialSL": 1.35375,
+            "HighestClose": 1.43,
+            "LatestClose": 1.4,
+            "CurrentStop": 1.365
+        },
+        {
+            "ISymbol": 118906,
+            "EntryDate": "2026-06-30",
+            "EntryPrice": 1.58,
+            "Qty": 105200,
+            "InitialSL": 1.4849999999999999,
+            "HighestClose": 1.58,
+            "LatestClose": 1.57,
+            "CurrentStop": 1.5150000000000001
+        },
+        {
+            "ISymbol": 374,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 2.26,
+            "Qty": 121200,
+            "InitialSL": 2.1774999999999998,
+            "HighestClose": 2.34,
+            "LatestClose": 2.3,
+            "CurrentStop": 2.23
+        },
+        {
+            "ISymbol": 1012,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 16.4,
+            "Qty": 14000,
+            "InitialSL": 15.6875,
+            "HighestClose": 16.4,
+            "LatestClose": 16.1,
+            "CurrentStop": 15.85
+        },
+        {
+            "ISymbol": 2823,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 6.6,
+            "Qty": 36300,
+            "InitialSL": 6.324999999999999,
+            "HighestClose": 6.6,
+            "LatestClose": 6.55,
+            "CurrentStop": 6.375
+        },
+        {
+            "ISymbol": 76589,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 8.2,
+            "Qty": 17900,
+            "InitialSL": 7.643749999999999,
+            "HighestClose": 8.55,
+            "LatestClose": 8.5,
+            "CurrentStop": 7.9
+        },
+        {
+            "ISymbol": 93653,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 3.9,
+            "Qty": 26400,
+            "InitialSL": 3.5225,
+            "HighestClose": 4.24,
+            "LatestClose": 4.14,
+            "CurrentStop": 3.71
+        },
+        {
+            "ISymbol": 103414,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 15.5,
+            "Qty": 5200,
+            "InitialSL": 13.6,
+            "HighestClose": 15.5,
+            "LatestClose": 14.9,
+            "CurrentStop": 13.95
+        },
+        {
+            "ISymbol": 122321,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 18.7,
+            "Qty": 8500,
+            "InitialSL": 17.525,
+            "HighestClose": 18.7,
+            "LatestClose": 18.6,
+            "CurrentStop": 18.0
+        },
+        {
+            "ISymbol": 123829,
+            "EntryDate": "2026-07-01",
+            "EntryPrice": 4.16,
+            "Qty": 41600,
+            "InitialSL": 3.9200000000000004,
+            "HighestClose": 4.38,
+            "LatestClose": 4.38,
+            "CurrentStop": 4.1
+        },
+        {
+            "ISymbol": 273,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 20.4,
+            "Qty": 12400,
+            "InitialSL": 19.599999999999998,
+            "HighestClose": 22.1,
+            "LatestClose": 22.1,
+            "CurrentStop": 20.25
+        },
+        {
+            "ISymbol": 489,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 4.44,
+            "Qty": 83300,
+            "InitialSL": 4.32,
+            "HighestClose": 4.56,
+            "LatestClose": 4.56,
+            "CurrentStop": 4.43
+        },
+        {
+            "ISymbol": 1478,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 19.7,
+            "Qty": 12100,
+            "InitialSL": 18.875,
+            "HighestClose": 20.1,
+            "LatestClose": 20.1,
+            "CurrentStop": 19.25
+        },
+        {
+            "ISymbol": 1530,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 1.47,
+            "Qty": 173900,
+            "InitialSL": 1.4124999999999999,
+            "HighestClose": 1.47,
+            "LatestClose": 1.46,
+            "CurrentStop": 1.435
+        },
+        {
+            "ISymbol": 2480,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 21.1,
+            "Qty": 8000,
+            "InitialSL": 19.8625,
+            "HighestClose": 21.9,
+            "LatestClose": 21.5,
+            "CurrentStop": 20.950000000000003
+        },
+        {
+            "ISymbol": 4086,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 48.5,
+            "Qty": 4600,
+            "InitialSL": 46.34375,
+            "HighestClose": 49.0,
+            "LatestClose": 47.75,
+            "CurrentStop": 47.0
+        },
+        {
+            "ISymbol": 4227,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 1.88,
+            "Qty": 119400,
+            "InitialSL": 1.79625,
+            "HighestClose": 1.95,
+            "LatestClose": 1.92,
+            "CurrentStop": 1.85
+        },
+        {
+            "ISymbol": 12165,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 1.19,
+            "Qty": 195100,
+            "InitialSL": 1.13875,
+            "HighestClose": 1.29,
+            "LatestClose": 1.29,
+            "CurrentStop": 1.21
+        },
+        {
+            "ISymbol": 56757,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 1.82,
+            "Qty": 98700,
+            "InitialSL": 1.71875,
+            "HighestClose": 1.88,
+            "LatestClose": 1.83,
+            "CurrentStop": 1.795
+        },
+        {
+            "ISymbol": 79133,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 11.3,
+            "Qty": 11700,
+            "InitialSL": 10.450000000000001,
+            "HighestClose": 12.4,
+            "LatestClose": 12.4,
+            "CurrentStop": 10.8
+        },
+        {
+            "ISymbol": 103360,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 7.3,
+            "Qty": 29000,
+            "InitialSL": 6.956249999999999,
+            "HighestClose": 7.3,
+            "LatestClose": 7.15,
+            "CurrentStop": 7.025
+        },
+        {
+            "ISymbol": 105692,
+            "EntryDate": "2026-07-02",
+            "EntryPrice": 23.5,
+            "Qty": 11700,
+            "InitialSL": 22.65,
+            "HighestClose": 23.7,
+            "LatestClose": 23.5,
+            "CurrentStop": 22.65
+        },
+        {
+            "ISymbol": 743,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 375.0,
+            "Qty": 600,
+            "InitialSL": 359.375,
+            "HighestClose": 376.0,
+            "LatestClose": 376.0,
+            "CurrentStop": 364.5
+        },
+        {
+            "ISymbol": 1176,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 35.0,
+            "Qty": 4300,
+            "InitialSL": 32.71875,
+            "HighestClose": 35.75,
+            "LatestClose": 35.25,
+            "CurrentStop": 33.875
+        },
+        {
+            "ISymbol": 1183,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 0.43,
+            "Qty": 186000,
+            "InitialSL": 0.37625,
+            "HighestClose": 0.43,
+            "LatestClose": 0.42,
+            "CurrentStop": 0.405
+        },
+        {
+            "ISymbol": 1247,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 12.0,
+            "Qty": 15600,
+            "InitialSL": 11.362499999999999,
+            "HighestClose": 12.0,
+            "LatestClose": 12.0,
+            "CurrentStop": 11.55
+        },
+        {
+            "ISymbol": 2050,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 33.75,
+            "Qty": 5700,
+            "InitialSL": 32.0,
+            "HighestClose": 35.5,
+            "LatestClose": 35.5,
+            "CurrentStop": 32.5
+        },
+        {
+            "ISymbol": 2479,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 14.0,
+            "Qty": 15000,
+            "InitialSL": 13.3375,
+            "HighestClose": 14.0,
+            "LatestClose": 13.8,
+            "CurrentStop": 13.6
+        },
+        {
+            "ISymbol": 6502,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 7.75,
+            "Qty": 45700,
+            "InitialSL": 7.53125,
+            "HighestClose": 8.0,
+            "LatestClose": 7.85,
+            "CurrentStop": 7.725
+        },
+        {
+            "ISymbol": 19017,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 22.1,
+            "Qty": 7000,
+            "InitialSL": 20.6875,
+            "HighestClose": 22.1,
+            "LatestClose": 21.9,
+            "CurrentStop": 21.65
+        },
+        {
+            "ISymbol": 23336,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 33.0,
+            "Qty": 3700,
+            "InitialSL": 30.34375,
+            "HighestClose": 33.75,
+            "LatestClose": 33.75,
+            "CurrentStop": 30.625
+        },
+        {
+            "ISymbol": 24741,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 6.05,
+            "Qty": 16800,
+            "InitialSL": 5.45625,
+            "HighestClose": 6.15,
+            "LatestClose": 6.0,
+            "CurrentStop": 5.775
+        },
+        {
+            "ISymbol": 89853,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 10.3,
+            "Qty": 19200,
+            "InitialSL": 9.78125,
+            "HighestClose": 10.3,
+            "LatestClose": 10.1,
+            "CurrentStop": 9.925
+        },
+        {
+            "ISymbol": 92836,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 12.9,
+            "Qty": 19500,
+            "InitialSL": 12.387500000000001,
+            "HighestClose": 13.1,
+            "LatestClose": 13.1,
+            "CurrentStop": 12.649999999999999
+        },
+        {
+            "ISymbol": 94830,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 6.9,
+            "Qty": 25300,
+            "InitialSL": 6.5062500000000005,
+            "HighestClose": 6.95,
+            "LatestClose": 6.85,
+            "CurrentStop": 6.6
+        },
+        {
+            "ISymbol": 109680,
+            "EntryDate": "2026-07-03",
+            "EntryPrice": 11.9,
+            "Qty": 12100,
+            "InitialSL": 11.075,
+            "HighestClose": 12.0,
+            "LatestClose": 11.9,
+            "CurrentStop": 11.55
+        },
+        {
+            "ISymbol": 436,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 6.15,
+            "Qty": 50000,
+            "InitialSL": 5.950000000000001,
+            "HighestClose": 6.15,
+            "LatestClose": 6.15,
+            "CurrentStop": 6.050000000000001
+        },
+        {
+            "ISymbol": 986,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 7.6,
+            "Qty": 20500,
+            "InitialSL": 7.1125,
+            "HighestClose": 7.6,
+            "LatestClose": 7.6,
+            "CurrentStop": 7.225
+        },
+        {
+            "ISymbol": 1283,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 124.5,
+            "Qty": 1700,
+            "InitialSL": 118.6875,
+            "HighestClose": 125.0,
+            "LatestClose": 125.0,
+            "CurrentStop": 120.0
+        },
+        {
+            "ISymbol": 2599,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 37.25,
+            "Qty": 6500,
+            "InitialSL": 35.71875,
+            "HighestClose": 37.25,
+            "LatestClose": 36.5,
+            "CurrentStop": 35.875
+        },
+        {
+            "ISymbol": 5359,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 8.35,
+            "Qty": 30100,
+            "InitialSL": 8.018749999999999,
+            "HighestClose": 8.35,
+            "LatestClose": 8.35,
+            "CurrentStop": 8.1
+        },
+        {
+            "ISymbol": 5494,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 16.1,
+            "Qty": 22800,
+            "InitialSL": 15.6625,
+            "HighestClose": 16.1,
+            "LatestClose": 16.0,
+            "CurrentStop": 15.85
+        },
+        {
+            "ISymbol": 7063,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 9.05,
+            "Qty": 41000,
+            "InitialSL": 8.806250000000002,
+            "HighestClose": 9.05,
+            "LatestClose": 9.0,
+            "CurrentStop": 8.925
+        },
+        {
+            "ISymbol": 11996,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 26.75,
+            "Qty": 4900,
+            "InitialSL": 24.7375,
+            "HighestClose": 26.75,
+            "LatestClose": 26.25,
+            "CurrentStop": 25.075
+        },
+        {
+            "ISymbol": 18478,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 7.65,
+            "Qty": 25800,
+            "InitialSL": 7.2625,
+            "HighestClose": 7.85,
+            "LatestClose": 7.85,
+            "CurrentStop": 7.425
+        },
+        {
+            "ISymbol": 76292,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 2.82,
+            "Qty": 40800,
+            "InitialSL": 2.5749999999999997,
+            "HighestClose": 2.82,
+            "LatestClose": 2.78,
+            "CurrentStop": 2.65
+        },
+        {
+            "ISymbol": 77321,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 7.8,
+            "Qty": 17200,
+            "InitialSL": 7.21875,
+            "HighestClose": 8.05,
+            "LatestClose": 8.05,
+            "CurrentStop": 7.35
+        },
+        {
+            "ISymbol": 80396,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 3.6,
+            "Qty": 64500,
+            "InitialSL": 3.445,
+            "HighestClose": 3.66,
+            "LatestClose": 3.66,
+            "CurrentStop": 3.4699999999999998
+        },
+        {
+            "ISymbol": 80942,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 3.9,
+            "Qty": 108100,
+            "InitialSL": 3.8074999999999997,
+            "HighestClose": 3.9,
+            "LatestClose": 3.9,
+            "CurrentStop": 3.84
+        },
+        {
+            "ISymbol": 84685,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 2.18,
+            "Qty": 58800,
+            "InitialSL": 2.01,
+            "HighestClose": 2.18,
+            "LatestClose": 2.12,
+            "CurrentStop": 2.085
+        },
+        {
+            "ISymbol": 89374,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 4.48,
+            "Qty": 80000,
+            "InitialSL": 4.355,
+            "HighestClose": 4.48,
+            "LatestClose": 4.46,
+            "CurrentStop": 4.37
+        },
+        {
+            "ISymbol": 98431,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 1.15,
+            "Qty": 82400,
+            "InitialSL": 1.0287499999999998,
+            "HighestClose": 1.15,
+            "LatestClose": 1.13,
+            "CurrentStop": 1.075
+        },
+        {
+            "ISymbol": 100050,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 3.32,
+            "Qty": 57900,
+            "InitialSL": 3.1475,
+            "HighestClose": 3.32,
+            "LatestClose": 3.32,
+            "CurrentStop": 3.16
+        },
+        {
+            "ISymbol": 100051,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 2.82,
+            "Qty": 42500,
+            "InitialSL": 2.5849999999999995,
+            "HighestClose": 3.0,
+            "LatestClose": 3.0,
+            "CurrentStop": 2.66
+        },
+        {
+            "ISymbol": 113211,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 16.9,
+            "Qty": 10000,
+            "InitialSL": 15.899999999999999,
+            "HighestClose": 16.9,
+            "LatestClose": 16.6,
+            "CurrentStop": 16.5
+        },
+        {
+            "ISymbol": 118950,
+            "EntryDate": "2026-07-06",
+            "EntryPrice": 3.34,
+            "Qty": 53300,
+            "InitialSL": 3.1525,
+            "HighestClose": 3.34,
+            "LatestClose": 3.34,
+            "CurrentStop": 3.1525
+        },
+        {
+            "ISymbol": 5231,
+            "EntryDate": "2026-07-07",
+            "EntryPrice": 6.45,
+            "Qty": 15000,
+            "InitialSL": 5.785,
+            "HighestClose": 6.45,
+            "LatestClose": 6.45
+        },
+        {
+            "ISymbol": 85525,
+            "EntryDate": "2026-07-07",
+            "EntryPrice": 13.1,
+            "Qty": 27500,
+            "InitialSL": 12.7375,
+            "HighestClose": 13.1,
+            "LatestClose": 13.1
+        },
+        {
+            "ISymbol": 96932,
+            "EntryDate": "2026-07-07",
+            "EntryPrice": 11.7,
+            "Qty": 14500,
+            "InitialSL": 11.012499999999998,
+            "HighestClose": 11.7,
+            "LatestClose": 11.7
+        },
+        {
+            "ISymbol": 118940,
+            "EntryDate": "2026-07-07",
+            "EntryPrice": 4.36,
+            "Qty": 62400,
+            "InitialSL": 4.2,
+            "HighestClose": 4.36,
+            "LatestClose": 4.36
+        }
+    ]
+}

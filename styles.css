@@ -16,7 +16,6 @@
     background-color: var(--background-primary);
     border: 1px solid var(--table-border);
     border-radius: 6px;
-    overflow: hidden;
 }
 
 /* Headers */
@@ -30,6 +29,9 @@
     border-right: 1px solid var(--table-border);
     text-align: left;
     white-space: normal;
+    position: sticky;
+    top: 0;
+    z-index: 5;
 }
 
 .json-table-viewer-table th:last-child,
@@ -55,7 +57,7 @@
 /* Row Hover effect */
 .json-table-viewer-table tbody tr:hover,
 .json-table-viewer-object-table tbody tr:hover {
-    background-color: var(--background-modifier-hover);
+    background-color: hsla(48, 100%, 50%, 0.15) !important;
 }
 
 .json-table-viewer-table tbody tr:last-child td,
@@ -282,5 +284,15 @@
 /* Zebra striping for alternating rows */
 .json-table-row-alternate {
     background-color: var(--background-secondary-alt) !important;
+}
+
+/* Selected row styles */
+.json-table-row-selected {
+    background-color: hsla(140, 50%, 50%, 0.15) !important; /* Premium soft green, consistent with boolean true badge */
+    border-left: 3px solid var(--interactive-accent) !important;
+}
+
+.json-table-row-selected:hover {
+    background-color: hsla(48, 100%, 45%, 0.22) !important;
 }
 

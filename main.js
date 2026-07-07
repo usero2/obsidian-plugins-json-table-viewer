@@ -293,6 +293,13 @@ function renderArrayOfObjects(arr, container) {
             if (idx % 2 === 1) {
               tr.addClass("json-table-row-alternate");
             }
+            tr.addEventListener("click", (e) => {
+              const target = e.target;
+              if (target.closest("input, button, a, .json-table-group-header-cell")) {
+                return;
+              }
+              tr.classList.toggle("json-table-row-selected");
+            });
             keys.forEach((key) => {
               const td = tr.createEl("td");
               if (item && typeof item === "object" && key in item) {
@@ -310,6 +317,13 @@ function renderArrayOfObjects(arr, container) {
         if (idx % 2 === 1) {
           tr.addClass("json-table-row-alternate");
         }
+        tr.addEventListener("click", (e) => {
+          const target = e.target;
+          if (target.closest("input, button, a, .json-table-group-header-cell")) {
+            return;
+          }
+          tr.classList.toggle("json-table-row-selected");
+        });
         keys.forEach((key) => {
           const td = tr.createEl("td");
           if (item && typeof item === "object" && key in item) {
@@ -334,6 +348,13 @@ function renderObject(obj, container) {
     if (idx % 2 === 1) {
       tr.addClass("json-table-row-alternate");
     }
+    tr.addEventListener("click", (e) => {
+      const target = e.target;
+      if (target.closest("input, button, a")) {
+        return;
+      }
+      tr.classList.toggle("json-table-row-selected");
+    });
     const th = tr.createEl("th");
     th.setText(key);
     const td = tr.createEl("td");

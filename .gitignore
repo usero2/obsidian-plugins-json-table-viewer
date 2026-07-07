@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Do not ignore these files
+!LICENSE
+!README.md
+!main.js
+!manifest.json
+!styles.css
+!.gitignore
